@@ -16,8 +16,6 @@ Proyecto Maven con ejercicios de práctica en Java 21, organizados por paquetes 
 
 - JDK 21
 - Maven 3.8+
-
-## Uso
 ```
 
 También podés ejecutar cada clase `App` directamente desde el IDE.
